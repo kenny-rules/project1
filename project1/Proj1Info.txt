@@ -1,0 +1,4 @@
+python Proj1 to crawl site and download pages
+python Proj1WOCrawlingSite for removing excess info from name
+
+Total count is 75947
